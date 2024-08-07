@@ -1,6 +1,7 @@
 ## Olá bem vindo👋
-## Me chamo Guilherme,tenho 15 anos e estudo na escola Ivone dos anjos da silva campos 
-## Atualmente estou estudando a plataforma alura
+## Estou estudando na Alura
+## Estou me desenvolvendo na linguagem JavaScript
+## Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **Guilherme919/Guilherme919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
